@@ -69,3 +69,5 @@ Les sons sont gérés grâce à la bibliothèque raylib. Ils sont joués lorsque
 
 ## **Amusez-vous !**
 
+#### by @ranki
+
